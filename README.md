@@ -46,10 +46,3 @@ KDU 2차 프로젝트 - 여러 지역, 다양한 팀과의 스포츠 경기 매�
 6. 
    
 
-## 시스템 구성도
-
-### 1. 개발환경이 포함된 시스템 구성도
-<img width="100%" src="https://user-images.githubusercontent.com/101033246/225028757-e5207eda-e439-42a4-83c8-e19e0e5fa27c.png"/>
-
-### 2. 도식화 한 시스템 구성도
-<img width="100%" src="https://user-images.githubusercontent.com/101033246/224725803-414f7f07-9a53-49af-bfcd-bea767726794.png"/>
